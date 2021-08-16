@@ -9,3 +9,4 @@ Listed Alphabetically:
 - ☕[Java](https://www.java.com/)
 - 🤣[LOLCODE](http://www.lolcode.org/)
 - 🐍[Python](https://www.python.org/)
+- ⚙[Rust](https://www.rust-lang.org/)
