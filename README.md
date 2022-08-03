@@ -7,6 +7,8 @@ Listed Alphabetically:
 - 🍇[Emojicode](https://www.emojicode.org/)
 - 🟢[Go](https://golang.org)
 - ☕[Java](https://www.java.com/)
+- 📜[JavaScript](https://www.javascript.com/)
 - 🤣[LOLCODE](http://www.lolcode.org/)
 - 🐍[Python](https://www.python.org/)
 - ⚙[Rust](https://www.rust-lang.org/)
+- ⌨[TypeScript](https://www.typescriptlang.org/)
