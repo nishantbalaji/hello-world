@@ -1,5 +1,5 @@
-# hello-world
-hello world in every language
+# Hello, World!
+I was fascinated by the different ways each language says "Hello, world!", so I decided to write it in every language I knew or learned!
 
 Listed Alphabetically: 
 - 👀[C](https://en.wikipedia.org/wiki/C_(programming_language))
